@@ -151,6 +151,14 @@ int main()
 }
 ```
 
+## Результати виконання програми
+
+Програму скомпільовано та запущено у Visual Studio Community 2022 (конфігурація Debug | x64) командою **Debug → Start Debugging**. На рядку `return 0;` поставлено точку переривання, щоб вікно консолі з результатами залишалось відкритим. Програма не потребує вхідних даних.
+
+![Виконання програми у Visual Studio](screens/run.png)
+
+**Рис. Виконання програми у Visual Studio 2022**
+
 ## Посилання на git-репозиторій з проектом
 
 [https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_4_6](https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_4_6)

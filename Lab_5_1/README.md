@@ -118,13 +118,25 @@ double f(const double x)
 }
 ```
 
+## Результати виконання програми
+
+Програму скомпільовано та запущено у Visual Studio Community 2022 (конфігурація Debug | x64) командою **Debug → Start Debugging**. На рядку `return 0;` поставлено точку переривання, щоб вікно консолі з результатами залишалось відкритим. Вхідні дані: s = 1. Вони подаються з файлу [input.txt](input.txt) (у властивостях проекту: Debugging → Command Arguments: `< input.txt`), тому у вікні консолі видно лише підказки введення, без самих значень.
+
+![Виконання програми у Visual Studio](screens/run.png)
+
+**Рис. Виконання програми у Visual Studio 2022**
+
 ## Посилання на git-репозиторій з проектом
 
 [https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_5_1](https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_5_1)
 
 ## Результати unit-тесту
 
-Unit-тест для функції `f(x)` наведено в [Лабораторній роботі № 5.0](../Lab_5_0/README.md).
+Unit-тест для функції `f(x)` наведено в [Лабораторній роботі № 5.0](../Lab_5_0/README.md). Результат запуску тестів у вікні Test Explorer (3 тести пройдено):
+
+![Test Explorer](../Lab_5_0/screens/tests.png)
+
+**Рис. Результат запуску unit-тестів у вікні Test Explorer**
 
 ## Висновки
 

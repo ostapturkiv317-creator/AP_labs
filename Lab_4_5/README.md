@@ -154,6 +154,14 @@ int main()
 }
 ```
 
+## Результати виконання програми
+
+Програму скомпільовано та запущено у Visual Studio Community 2022 (конфігурація Debug | x64) командою **Debug → Start Debugging**. На рядку `return 0;` поставлено точку переривання, щоб вікно консолі з результатами залишалось відкритим. Вхідні дані: R1 = 3, R2 = 2; координати 10 пострілів: (−1; 1), (−1.5; 1.5), (2; −2), (0.5; −0.5), (1; 1), (0; 0), (−2; −2), (2.5; 0), (0; −2.5), (−3; 3). Вони подаються з файлу [input.txt](input.txt) (у властивостях проекту: Debugging → Command Arguments: `< input.txt`), тому у вікні консолі видно лише підказки введення, без самих значень.
+
+![Виконання програми у Visual Studio](screens/run.png)
+
+**Рис. Виконання програми у Visual Studio 2022**
+
 ## Посилання на git-репозиторій з проектом
 
 [https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_4_5](https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_4_5)

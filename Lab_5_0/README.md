@@ -97,8 +97,11 @@ namespace UnitTest50
 
 Запуск тестів: **Test → Run All Tests**, результат у вікні **Test Explorer**.
 
-> `[СКРІН: вікно Test Explorer з результатом 3 Passed]`
-> Скрін треба зробити у Visual Studio після запуску тестів.
+Результат у вікні Test Explorer: усі 3 тести пройдено (3 Passed, 0 Failed):
+
+![Test Explorer: 3 Passed](screens/tests.png)
+
+**Рис. Результат запуску unit-тестів у вікні Test Explorer**
 
 ### 3. Нова гілка та злиття
 
