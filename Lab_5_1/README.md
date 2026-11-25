@@ -120,7 +120,7 @@ double f(const double x)
 
 ## Посилання на git-репозиторій з проектом
 
-<!--REPO:Lab_5_1-->
+[https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_5_1](https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_5_1)
 
 ## Результати unit-тесту
 

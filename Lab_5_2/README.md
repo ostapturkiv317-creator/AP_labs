@@ -176,7 +176,7 @@ void A(const double x, const int n, double &a)
 
 ## Посилання на git-репозиторій з проектом
 
-<!--REPO:Lab_5_2-->
+[https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_5_2](https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_5_2)
 
 ## Результати unit-тесту
 

@@ -153,7 +153,7 @@ int main()
 
 ## Посилання на git-репозиторій з проектом
 
-<!--REPO:Lab_4_6-->
+[https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_4_6](https://github.com/ostapturkiv317-creator/AP_labs/tree/master/Lab_4_6)
 
 ## Висновки
 
